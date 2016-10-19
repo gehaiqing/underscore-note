@@ -2,7 +2,11 @@
 //     http://underscorejs.org
 //     (c) 2009-2015 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
 //     Underscore may be freely distributed under the MIT license.
-
+/**
+ * underscore源码阅读笔记
+ * hopper
+ * 2016.10.19
+ */
 (function() {
 
     // Baseline setup
